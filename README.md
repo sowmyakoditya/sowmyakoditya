@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sowmyakodityala
+- 👋 Hi, I’m Sowmya.
 - 👀 I’m interested in Data Analytics, Data Engineering, cloud technologies (AWS), developing insights and dashboards
 - 🌱 I’m currently learning advanced data processing techniques with Spark and optimizing data pipelines on AWS.
 - 💞️ I’m looking to collaborate on projects involving large-scale data architectures, and innovative data-driven solutions.
